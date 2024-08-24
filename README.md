@@ -1,2 +1,3 @@
-# hello-world.
-This respiratory id for practicing GitHub coding 
+- #test-area-2
+- I am Dameiun Johnson I am from Nashville/TN
+- I am 18 and like to play basketball and playing games
